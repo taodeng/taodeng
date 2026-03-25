@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Tao Deng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tao Deng"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://tdeng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,11 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Tao Deng received the Ph.D. degree in Center for Visual Cognition and Brain-Inspired Computation (ViCBiC), MOE Key Lab for Neuroinformation, School of Life Science and Technology, University of Electronic Science and Technology of China(UESTC) in 2018. He was a visiting PhD from Oct. 2016 to Oct. 2017 in Vision Research Lab, Department of Electrical and Computer Engineering, University of California Santa Barbara (UCSB), CA.
+Now, he is with School of Information Science and Technology, Southwest Jiaotong University. His current research interests include human visual attention modeling (including bottom-up and top-down), eye tracking, saliency detection, computer vision, deep learning, image/video processing, traffic driving scene visual prediction model, intelligent transportation."
+  location         : "No. 999, Xi'an Road, Pidu District, Chengdu, Sichuan, 611756, P. R. China."
+  employer         : "Southwest Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tdeng [AT] swjtu.edu.cn; tinydao [AT] 163.com" 
 
   # Academic websites
   academia         : # URL
